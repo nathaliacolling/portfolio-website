@@ -17,12 +17,16 @@ html {
   height: 100px;
   width: auto;
 }
+
+
+header {
+  background-color: #f2998f;
+  padding: 10px;
+  margin: 10px;
+}
 /* Sections
    ========================================================================== */
 
-/**
- * Remove the margin in all browsers.
- */
 
  body {
    background-color: #ffffff;
